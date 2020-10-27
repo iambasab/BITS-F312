@@ -1,5 +1,5 @@
-# BITS-F312
-Official course repository for the Neural Networks and Fuzzy Logic course at BITS Goa (Sem 2, 2018-19).
+# Laboratory BITS-F312
+Official course repository for the accompaniment Laboratory of the Neural Networks and Fuzzy Logic course at BITS Goa (Sem 2, 2018-19).
 
 ### References
 
